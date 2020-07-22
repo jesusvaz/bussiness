@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jesusvaz/bussiness.git/static/css/main.d7a0b192.chunk.css",
+    "main.js": "/jesusvaz/bussiness.git/static/js/main.0d7f1518.chunk.js",
+    "main.js.map": "/jesusvaz/bussiness.git/static/js/main.0d7f1518.chunk.js.map",
+    "runtime-main.js": "/jesusvaz/bussiness.git/static/js/runtime-main.53891ad9.js",
+    "runtime-main.js.map": "/jesusvaz/bussiness.git/static/js/runtime-main.53891ad9.js.map",
+    "static/js/2.aa4fa8f6.chunk.js": "/jesusvaz/bussiness.git/static/js/2.aa4fa8f6.chunk.js",
+    "static/js/2.aa4fa8f6.chunk.js.map": "/jesusvaz/bussiness.git/static/js/2.aa4fa8f6.chunk.js.map",
+    "index.html": "/jesusvaz/bussiness.git/index.html",
+    "precache-manifest.761b013e0bd39c1f7fd8c1f0188966f3.js": "/jesusvaz/bussiness.git/precache-manifest.761b013e0bd39c1f7fd8c1f0188966f3.js",
+    "service-worker.js": "/jesusvaz/bussiness.git/service-worker.js",
+    "static/css/main.d7a0b192.chunk.css.map": "/jesusvaz/bussiness.git/static/css/main.d7a0b192.chunk.css.map",
+    "static/js/2.aa4fa8f6.chunk.js.LICENSE.txt": "/jesusvaz/bussiness.git/static/js/2.aa4fa8f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53891ad9.js",
+    "static/js/2.aa4fa8f6.chunk.js",
+    "static/css/main.d7a0b192.chunk.css",
+    "static/js/main.0d7f1518.chunk.js"
+  ]
+}
